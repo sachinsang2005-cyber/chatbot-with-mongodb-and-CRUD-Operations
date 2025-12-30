@@ -1,0 +1,28 @@
+body{
+   margin-left: 20px;
+   /* display: flex; */
+   /* flex-wrap: wrap; */
+}
+h1{
+    color: rgb(5, 238, 176);
+}
+h3 {
+    color: white;
+    background-color: rgb(5, 238, 176);
+}
+div {
+    display: inline-block;
+    vertical-align: top;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 15px;
+    width: 50%;                      /* each div takes full width */
+    box-sizing: border-box;           /* ensures padding/border included in width */
+}
+button{
+    color: white;
+    background-color: green;
+    border-radius: 15px;
+    vertical-align: bottom;
+}
