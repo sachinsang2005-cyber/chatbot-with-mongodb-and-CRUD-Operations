@@ -36,7 +36,5 @@ This project focuses on database operations, not UI design.
 # Required Packages
 Install dependencies using:
 
-```bash
-npm install express mongoose body-parser cors
-# chatbot-with-mongodb-and-RESTful-apis
+
 
