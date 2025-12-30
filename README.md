@@ -31,10 +31,5 @@ This project focuses on database operations, not UI design.
 - ODM: Mongoose
 - Testing Tool: Postman
 
----
-
-# Required Packages
-Install dependencies using:
-
 
 
